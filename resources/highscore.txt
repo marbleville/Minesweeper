@@ -1,0 +1,4 @@
+Easy:5.12
+Medium:28.229
+Hard:155.141
+Custom:4.058

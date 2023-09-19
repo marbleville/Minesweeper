@@ -1,3 +1,3 @@
 # Minesweeper
 
-A version of minesweeper written in Java for my CSA fianl project.
+A version of minesweeper written in Java for my CSA final project.
